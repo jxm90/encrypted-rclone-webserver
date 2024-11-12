@@ -1,5 +1,5 @@
 # encrypted-rclone-webserver
-Encrypt and backup apache virtual host files, SQL data, and webdirectories to cloud.
+Encrypt and backup apache virtual host files, SQL data, and webdirectories to the cloud.
 
 rclone will need to be installed and configured first. 
 add a remote, and then add the encrypted version. 
